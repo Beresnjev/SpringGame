@@ -1,10 +1,10 @@
-package ee.bertim;
+package ee.bertim.springGame;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringGameApplicationTests {
+class ApplicationTests {
 
 	@Test
 	void contextLoads() {

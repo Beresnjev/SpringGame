@@ -1,0 +1,5 @@
+### Create new game
+POST http://localhost:8080/game
+
+### Play
+GET http://localhost:8080/game/4/guess/79

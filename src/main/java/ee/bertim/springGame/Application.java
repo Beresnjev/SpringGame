@@ -1,13 +1,12 @@
-package ee.bertim;
+package ee.bertim.springGame;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringGameApplication {
+public class Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringGameApplication.class, args);
+		SpringApplication.run(Application.class, args);
 	}
-
 }
